@@ -1,4 +1,10 @@
-# nuxt-sample-app
+### Document
+https://ja.nuxtjs.org/docs/2.x/get-started/installation
+
+英語のほうが充実している。
+https://nuxtjs.org/docs/2.x/get-started/installation
+
+A text editor, we recommend VSCode with the Vetur extension or WebStorm
 
 ## Build Setup
 

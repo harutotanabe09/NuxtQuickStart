@@ -2,6 +2,13 @@
   <div class="container">
     <div>
       <Logo />
+      <template>
+        <h1>Hello world!</h1>
+      </template>
+      <template>
+        <NuxtLink to="/">Home page</NuxtLink>
+      </template>
+
       <h1 class="title">nuxt-sample-app</h1>
       <div class="links">
         <a
