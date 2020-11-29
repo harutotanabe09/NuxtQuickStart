@@ -1,12 +1,18 @@
 ### Document
+
 https://ja.nuxtjs.org/docs/2.x/get-started/installation
 
-英語のほうが充実している。
+- 英語のほうが充実している。
 https://nuxtjs.org/docs/2.x/get-started/installation
 
 A text editor, we recommend VSCode with the Vetur extension or WebStorm
 
-netlify
+- Nuxt TypeScript
+
+https://typescript.nuxtjs.org/cookbook/components/#template
+
+- netlify
+
 
 ## Build Setup
 
@@ -36,3 +42,12 @@ $ yarn eslint
 - TODO：assetsで共通のCSSかける
 - TODO：componentは自動読み込みして使うことができる
 - TODO：コミット前のおまじない yarn eslint
+- TODO：コミットメッセージでエラー　
+- TODO：TSの書き方
+　https://github.com/conventional-changelog/commitlint/#what-is-commitlint
+
+### Service
+
+Herokuのもっと簡易バージョンサービス
+
+https://www.netlify.com/
