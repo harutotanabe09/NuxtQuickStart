@@ -6,6 +6,7 @@
         <h1>Hello world!</h1>
       </template>
       <template>
+        <transition name="home"></transition>
         <NuxtLink to="/">Home page</NuxtLink>
       </template>
 
@@ -35,7 +36,10 @@
 <script lang="ts">
 import Vue from 'vue'
 
-export default Vue.extend({})
+export default Vue.extend({
+  // 文字列を指定できます
+  transition: 'home',
+})
 </script>
 
 <style>

@@ -6,6 +6,8 @@ https://nuxtjs.org/docs/2.x/get-started/installation
 
 A text editor, we recommend VSCode with the Vetur extension or WebStorm
 
+netlify
+
 ## Build Setup
 
 ```bash
@@ -21,6 +23,16 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+
+# Check Command
+$ yarn eslint
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+### Note
+
+- TODO：アニメーションの設定
+- TODO：PRECOMMITはデフォルトで入っている
+- TODO：Nuxt-Childの使い方
+- TODO：assetsで共通のCSSかける
+- TODO：componentは自動読み込みして使うことができる
+- TODO：コミット前のおまじない yarn eslint

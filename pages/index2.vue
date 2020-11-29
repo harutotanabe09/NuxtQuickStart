@@ -29,7 +29,7 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-    layout: 'blog'
+  layout: 'blog',
   // ページコンポーネントの定義
 })
 </script>

@@ -9,9 +9,18 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
-
+  loading: '~/components/LoadingBar.vue',
+  cli: {
+    bannerColor: 'yellow',
+  },
+  /*
+  loading: {
+    color: 'blue',
+    height: '5px',
+    continuous: true
+  }, */
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [],
+  css: ['~/assets/main.css'],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [],
