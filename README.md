@@ -3,7 +3,7 @@
 https://ja.nuxtjs.org/docs/2.x/get-started/installation
 
 - 英語のほうが充実している。
-https://nuxtjs.org/docs/2.x/get-started/installation
+https://nuxtjs.oyarg/docs/2.x/get-started/installation
 
 A text editor, we recommend VSCode with the Vetur extension or WebStorm
 
@@ -12,7 +12,6 @@ A text editor, we recommend VSCode with the Vetur extension or WebStorm
 https://typescript.nuxtjs.org/cookbook/components/#template
 
 - netlify
-
 
 ## Build Setup
 
@@ -36,6 +35,10 @@ $ yarn eslint
 
 ### Note
 
+https://typescript.nuxtjs.org/ja/cookbook/modules
+
+- TODO：Nuxtタグ
+- TODO:親から子供への渡し方
 - TODO：アニメーションの設定
 - TODO：PRECOMMITはデフォルトで入っている
 - TODO：Nuxt-Childの使い方
